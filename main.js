@@ -1,6 +1,6 @@
 // tady je místo pro náš program
 
-
+//comments 
 /**
  * Sečte dvě čísla na vstupu a vrátí výsledek
  *
